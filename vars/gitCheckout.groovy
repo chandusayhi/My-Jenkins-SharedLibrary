@@ -1,4 +1,4 @@
 def checkout (){
-  git clone 
+  git clone https://github.com/chandusayhi/hello-world-war.git
 }
 
