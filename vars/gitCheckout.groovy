@@ -1,4 +1,4 @@
-def checkout (){
+def call(){
   sh ''' 
   rm -rf hello-world-war
   '''
